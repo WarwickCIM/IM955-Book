@@ -1,0 +1,84 @@
+project:
+  type: book
+  
+execute: 
+  echo: false
+  warning: false
+
+book:
+  title: "IM955 - Spatial Data: Mapping & Power"
+  author:
+    - name: Timothy Monteath
+      orcid: 0000-0003-2481-9785
+      affiliation: University of Warwick
+      affiliation-url: http://warwick.ac.uk/cim
+  date: "7/18/2025"
+  
+  repo-url: https://github.com/WarwickCIM/IM955
+  repo-actions: [edit, issue]
+  
+  sidebar:
+    collapse-level: 2
+  
+  chapters:
+    - index.qmd
+    - content/Week_1.qmd
+    - content/Schedule.qmd
+    #- content/Week_2.qmd
+    #- content/Week_3.qmd
+    #- content/Week_4.qmd
+    #- content/Week_5.qmd
+    #- content/Week_6.qmd
+    #- content/Week_7.qmd
+    #- content/Week_8.qmd
+    #- content/Week_9.qmd
+    #- content/Week_10.qmd
+    #- content/Groupwork.qmd
+    #- content/Assesment.qmd
+    #- part: "Assesment"
+    #  chapters:
+        #- content/CATS15.qmd
+        #- content/CATS20.qmd
+        #- content/CATS30.qmd
+    - part: "Software"
+      chapters: 
+        - content/QGIS.qmd
+        - content/Inkscape.qmd
+        - content/R.qmd
+        - content/Python.qmd
+    #- content/Reading_list.qmd
+    - part: "Extras"
+      chapters:
+        - content/Data.qmd
+        - content/Course_aims.qmd
+  
+  page-footer: 
+    left:
+      - text: "![](/media/CIM_logo_white.png){width=300}"
+        href: https://warwick.ac.uk/cim
+    right: 
+      - icon: github
+        href: https://github.com/WarwickCIM/
+      - icon: mastodon 
+        href: https://fediscience.org/%40cimethods
+      - icon: bluesky
+        href: https://bsky.app/profile/cimethods.bsky.social
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+      - css/warwick.scss
+    reference-location: margin
+    number-sections: false
+    csl: chicago-syllabus.csl
+  pdf:
+     documentclass: scrreprt
+     output-file: pdf-book
+
+editor: visual
+

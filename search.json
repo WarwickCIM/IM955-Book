@@ -1,0 +1,127 @@
+[
+  {
+    "objectID": "content/Schedule.html",
+    "href": "content/Schedule.html",
+    "title": "Weeks to come…",
+    "section": "",
+    "text": "The content for each week will be uploaded as the course progresses\n\n\n\nWeek\nTitle\nTasks\n\n\n\n\nWeek 1\nIntroduction\n\n\n\nWeek 2\nA Brief History of Cartography and Thematic Mapping\nMake your first map!\n\n\nWeek 3\nAn Introduction GIS and Critical Cartography\nPick an inspiring map\n\n\nWeek 4\nSeeing like a State\nBivariate Choropleths\n\n\nWeek 5\nCitizen and Participatory Mapping\nBasemaps and OSM\n\n\nWeek 6\nReading week\n\n\n\nWeek 7\nPeople, flows and borders\nInternational Maps\n\n\nWeek 8\nInvestigative Aesthetics\nChallenging the Map\n\n\nWeek 9\nThe map is not the territory: alternative and counter mapping\nProjections\n\n\nWeek 10\nConclusion",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Weeks to come...</span>"
+    ]
+  },
+  {
+    "objectID": "content/QGIS.html",
+    "href": "content/QGIS.html",
+    "title": "QGIS",
+    "section": "",
+    "text": "Installing QGIS\nInstalling QGIS varies slightly depending what system you are running. Either way you need to go to QGIS.org.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>QGIS</span>"
+    ]
+  },
+  {
+    "objectID": "content/QGIS.html#installing-qgis",
+    "href": "content/QGIS.html#installing-qgis",
+    "title": "QGIS",
+    "section": "",
+    "text": "Windows\n\n\n\nMacOS\n\nDepending on what permissions you have on your system you may also need to unlock QGIS in your security permissions.\n\n\n\n\nLinux\nIf you use linux I’m going to assume you can figure this out on your own! (It might also be better for you to not use the LTR version of QGIS).",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>QGIS</span>"
+    ]
+  },
+  {
+    "objectID": "content/QGIS.html#map-academy",
+    "href": "content/QGIS.html#map-academy",
+    "title": "QGIS",
+    "section": "Map Academy",
+    "text": "Map Academy\n\n\n\nMap Academy is a youtube channel run by Prof Alasdair Rae the former Professor of Urban Studies and Planning at Sheffield University. He is a leading expert in QGIS and his videos are short, well made, and cover most things you might want to do in QGIS - from the simple to the complicated. He also has a collection of handy datasets and his old blog is also well worth a look.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>QGIS</span>"
+    ]
+  },
+  {
+    "objectID": "content/QGIS.html#other-youtube-channels",
+    "href": "content/QGIS.html#other-youtube-channels",
+    "title": "QGIS",
+    "section": "Other Youtube Channels",
+    "text": "Other Youtube Channels\nKlas Karlsson has long form videos that can be very useful for covering some more esoteric topics and layout issues in QGIS.\nHans Vander Kwast a Geographer at IHE Delft has lots of handy videos, althought they are more targeted towards hyrdrologists and physical geographers.\nThe Offical QGIS Channel has changelog videos showcase the latest features that have been added to QGIS and presentations/lectures which showcase some of the cutting edge work that is being done with QGIS.\nBeyond this I would just search for what you are looking for, there are hundreds of small channels that have QGIS videos tutorials for almost every issue or feature in QGIS!",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>QGIS</span>"
+    ]
+  },
+  {
+    "objectID": "content/QGIS.html#textbooks",
+    "href": "content/QGIS.html#textbooks",
+    "title": "QGIS",
+    "section": "Textbooks",
+    "text": "Textbooks\nIf you are interested in textbooks for QGIS, there are a many available. I have not set any as core readings for this course as I tend to find that they are variable in the quality with which they cover topics and that they tend to be extremely long winded and not particularly suited to the task of learning software like QGIS.\nLocate Press tends to have the most well written and uptodate textbooks on QGIS, however as a result of their DRM free publishing model they are not accessible through the library. Although this means that slightly older versions of many of these books are uploaded by their authors and can be found for free with a quick google search.\nThe library provides access to several books from Packt Publishing which can be useful for refernce, such as:\n\nLearn QGIS: your step-by-step guide to the fundamental of QGIS 3.4\nHands-on geospatial analysis with R and QGIS: a beginner’s guide to manipulating, managing, and analyzing spatial data using R and QGIS 3. 2. 2\nQGIS: becoming a gis power user : Master data management, visualization, and spatial analysis techniques in QGIS and become a GIS power user",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>QGIS</span>"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IM955 - Spatial Data: Mapping & Power",
+    "section": "",
+    "text": "Welcome to IM955!\n\nIn this course we will be exploring spatial data, making maps and thinking critically about their power. Core to this course is developing a rich and conceptual understanding of data and space. To do this we will be exploring the history of cartography and mapping, theories of space and power, all through a hands on approach where you learn to make your own maps.\nTo make these maps you will learn about:\n\nSpatial data formats.\nWhere to find data.\nHow to clean, select and transform spatial data.\nTo use GIS software.\nRefine and polish maps and spatial data visualizations.\nConstructively critique and iteratively improve designs.\n\nAt each stage of this process we will be engage with critical research on space and power through the readings and lectures that will accompany each weeks class and hands on exercises where you will make your own maps. Doing this will challenge you to develop a critical approach to spatial data – how it is collected, mapped and how it can be used to understand the social – as the theoretical way we understand space cannot be separated from how we seek to represent it.\n\n\nHow this course works\nThe organisation of this course is slightly different to many others you will be taking at CIM or in other Departments at Warwick. Firstly, it is structured into 3 parts:\n\nPart I Weeks 1 - 3: Set up Introduction\nPart 2 Weeks 4 - 9: Groupwork and Map-making\nPart 3 Week 10: Conclusion\n\nSecondly, as you can see, groupwork makes up the core part of this course. For each of these five weeks you will be set a mapping task as a group that you will need to complete for the following weeks class. Combined these maps will then make up the groupwork part of your assessment for this course.\nThis structure is designed to allow you develop and progress your skills rapidly over a short period of time. It makes us of groupwork to split up the map-making process into separate tasks that mean that the complex and time-consuming task of making maps can be realistically done in a week. Working this way also mimics the working world of collaborative and iterative design. It means that you will need to learn about and try each stage of the map making process - from data wrangling, to producing professional designs.\nAcross all of the weeks the structure of the class itself will be broadly the same. Each class will start with a detailed review and ‘crit’ of the work you have produced over the last week. Once we have reviewed and learnt from the last task, the second part of the class will introduce the next challenge. Each group will then start on the new task, enabling you to put feedback and inspiration right into action. Depending on the CATS level at which you are taking this module (15 CATS, 20 CATS, 30 CATS) this groupwork will be supplemented by additional individually made maps and written self-critiques.\n\n\nGroupwork\nWorking successfully in a group is key to this course. To facilitate this each task has been designed so that it can broken down into specific tasks that can be taken on by individual group members. Each step works as a ‘pipeline’ that can be combined into a finished piece of work. The Groupwork page, has more of details of how this will work and tips for how to best work together. For the introduction there are two important details which you need to know:\n\nEach groupwork assignment needs to be completed for the following week. Not completing the task on time means you will not get any feedback and the course and your group overall will be affected. Expect to commit around 11 hours of work each week to doing groupwork. If you think you will be unable to commit this much time each week during term you may want to reconsider if this is the right course for you.\nGroupwork, as the name suggests, is a collective effort and each member of the group is expected to contribute equally to the work produced. To ensure that the level of work done is consistent each group will need to submit a short log of what work was done by whom for each task. Crucially, groupwork is submitted collectively but marked individually. This means that group members who do not take part or are not contributing equally risk being marked down.\nYou will be assigned to a group in Week 3.\n\n\n\nTopics & Readings\nEach week has a distinct theme where you will engage with a new topic in mapping and spatial data. Accompanying each week are required readings. Required readings are at the top of this are listed in boxes like this:\n\n\n\n\n\n\nRequired reading\n\n\n\nYou can find links to all the required readings on TALIS\n\n\nIt is crucial that you do the readings each week to be able to engage with the topics and understand the content of the course and the conepts we will be discussing.\nAccompanying each week are Further Readings. These readings are not compulsory, but are recommended texts that you might want to read if you are interested in exploring this topic further.\nThere is also an Extra Readings section, which includes other books and resources - mostly technical - which may be helpful as you seek to develop your mapping skills, none of these are required readings but they may be very helpful! Finally, there is an Atlas’s and Inspiration section, in which I have put some books, websites and other resources, which you can use to help you develop your critical eye and creativity.\n\n\n\nWeek\nTopic\nGroupwork\n\n\n\n\nWeek 1\nIntroduction\n\n\n\nWeek 2\nHistory of Mapping\n\n\n\nWeek 3\nGIS\nFormative\n\n\nWeek 4\nCensus\nYES\n\n\nWeek 5\nParticipatory Mapping\nYES\n\n\nWeek 6\nReading week\n\n\n\nWeek 7\nMigration\nYES\n\n\nWeek 8\nInvestigative Data\nYES\n\n\nWeek 9\nCounter Mapping\nYES\n\n\nWeek 10\nConclusion\n\n\n\n\n\n\nSoftware\nFor this course we will be using three primary pieces of software, R, QGIS and Inkscape. It is not expected that you have any existing knowledge of these software, and over the first three weeks we will be introducing each of them, and how we can use them to make maps.\nWhile these are the software I will be explicitly teaching, and supporting you with in class, you are free to use any software that you like to accomplish your mapping goals! For this reason, I’ve included a page on Python as this might be a language you are already familiar with, or are learning for your other classes.\n\n\nAssesment\nFor all CATS levels, the groupwork is mandatory and makes up a key part of your mark. Dependent on the CATS level at which you are taking this module, however, the groupwork will be a different percentage of you overall grade and will define how much additional individual work you will be taking on.\n\n15 CATS: Groupwork - 5 Maps (70%); Self reflection/Critique 1000words (30%)\n20 CATS: Groupwork - 5 Maps (50%); Individual Work - 2 Maps + Self reflection/Critique 1000words (50%)\n30 CATS: Groupwork - 5 Maps (35%); Individual Work - 4 Maps + Self reflection/Critique 1500words (65%)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Module Overview</span>"
+    ]
+  },
+  {
+    "objectID": "content/Week_1.html",
+    "href": "content/Week_1.html",
+    "title": "Week 1 - Introducing IM955",
+    "section": "",
+    "text": "Installing Software\nMake sure you have right software installed on your computer:\nFor week 1, just installing this software is enough! You should be able to open each of these up and see a screen that looks like this:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Week 1 - Introducing IM955</span>"
+    ]
+  },
+  {
+    "objectID": "content/Week_1.html#steps-to-making-map",
+    "href": "content/Week_1.html#steps-to-making-map",
+    "title": "Week 1 - Introducing IM955",
+    "section": "Steps to making map",
+    "text": "Steps to making map\n\n\n\n\n\n\nWarning\n\n\n\nIf these videos aren’t loading make sure you are signed into your Warwick account. And if you are looking at this page before our first lecture they might also not load as you need to be part of the group IM955: Spatial Data - Microsoft Teams",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Week 1 - Introducing IM955</span>"
+    ]
+  },
+  {
+    "objectID": "content/Week_1.html#processing-data",
+    "href": "content/Week_1.html#processing-data",
+    "title": "Week 1 - Introducing IM955",
+    "section": "Processing data",
+    "text": "Processing data",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Week 1 - Introducing IM955</span>"
+    ]
+  },
+  {
+    "objectID": "content/Week_1.html#making-a-map",
+    "href": "content/Week_1.html#making-a-map",
+    "title": "Week 1 - Introducing IM955",
+    "section": "Making a map",
+    "text": "Making a map",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Week 1 - Introducing IM955</span>"
+    ]
+  },
+  {
+    "objectID": "content/Week_1.html#refining-graphics",
+    "href": "content/Week_1.html#refining-graphics",
+    "title": "Week 1 - Introducing IM955",
+    "section": "Refining graphics",
+    "text": "Refining graphics",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Week 1 - Introducing IM955</span>"
+    ]
+  }
+]
